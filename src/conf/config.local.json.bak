@@ -1,10 +1,10 @@
 {
-  "networkId": 1581350973751,
-  "lmsrAddress": "0xDF9FD2e8Cf22F173168F320172bBBB29f6d6b011",
+  "networkId": 3,
+  "lmsrAddress": "0xc76A7d63BD559FbA6E58F3052F9B83dB6942d9d2",
   "markets": [
     {
-      "questionId": "0x4b22fe478b95fdaa835ddddf631ab29f12900b62061e0c5fd8564ddb7b684333",
-      "title": "Will the summer 2020 in Germany break again weather records? ",
+      "questionId": "0x4b22fe478b95fdaa835ddddf631ab29f12900b62061e0c5fd8564ddb7b684000",
+      "title": "Will BTC cross 50k in December 2022 ? ",
       "outcomes": [
         {
           "title": "Yes",
